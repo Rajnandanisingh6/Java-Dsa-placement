@@ -10,7 +10,7 @@ public class Pattern {
             for(int j=1;j<=m;j++){
                 System.out.print("*");
             }
-            System.out.println("*");
+            System.out.println();
         }       
     }
     
